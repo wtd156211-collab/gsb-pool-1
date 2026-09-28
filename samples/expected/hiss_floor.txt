@@ -1,0 +1,22 @@
+# 期望值：逐行核对；判定口径见 README.md 第 5 节
+# 容差：dB 字段 ±0.05；peak_in / peak_out ±2；silent_frames / clipped_samples ±2；silent_ranges_ms 端点 ±100
+# max_step_db 是上限（≤ 1.50 即算过）；file / sample_rate / samples / frames 必须完全相等
+# silent_ranges_ms 是半开区间的毫秒端点，按起点升序，多个用空格分开；没有写 -
+file: hiss_floor.wav
+sample_rate: 16000
+samples: 144000
+frames: 87
+meas_loudness_dbfs: -41.44
+target_dbfs: -20.00
+gain_base_db: 18.00
+gain_min_db: 18.00
+gain_max_db: 18.00
+gain_mean_db: 18.00
+max_step_db: 0.00
+silent_frames: 0
+silent_ranges_ms: -
+clipped_samples: 0
+peak_in: 1727
+peak_out: 13718
+achieved_loudness_dbfs: -23.44
+target_met: no
