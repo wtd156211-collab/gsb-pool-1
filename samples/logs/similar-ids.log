@@ -1,0 +1,15 @@
+2026-09-02T10:00:00Z req route=/api/v2/orders/1001/list client=alpha
+2026-09-02T10:00:01Z req route=/api/v2/orders/1002/list client=alpha
+2026-09-02T10:00:02Z req route=/api/v2/orders/1003/list client=beta
+2026-09-02T10:00:03Z req route=/api/v2/orders/1004/items client=beta
+2026-09-02T10:00:04Z req route=/api/v2/users/77/profile client=alpha
+2026-09-02T10:00:05Z req token=c0ffee00000000000000000000000000000000ab cache=miss
+2026-09-02T10:00:06Z req token=c0ffee000000000000000000ff000000000000ab cache=miss
+2026-09-02T10:00:07Z req cache=miss hit=0
+2026-09-02T10:00:08Z req cache=miss hit=0 id=77
+2026-09-02T10:00:09Z req cache=hit hit=1 id=88
+2026-09-02T10:00:10Z req cache=hit hit=1 id=88 latency=9ms
+2026-09-02T10:00:11Z req|sid=9912|state=open
+2026-09-02T10:00:12Z req|sid=9913|state=closed
+2026-09-02T10:00:13Z dequeue 4 from queue orders
+2026-09-02T10:00:14Z dequeue 7 from queue catalog

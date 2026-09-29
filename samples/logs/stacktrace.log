@@ -1,0 +1,14 @@
+2026-09-03T09:15:00Z ERROR svc.worker job=7821 failed, retrying
+Traceback (most recent call last):
+  File "/opt/app/worker.py", line 118, in run
+    payload = json.loads(raw)
+  File "/usr/lib/python3.13/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2026-09-03T09:15:01Z ERROR svc.worker job=7822 failed, retrying
+Traceback (most recent call last):
+  File "/opt/app/worker.py", line 121, in run
+    payload = json.loads(raw)
+  File "/usr/lib/python3.13/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

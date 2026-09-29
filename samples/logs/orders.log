@@ -1,0 +1,12 @@
+2026-09-01T08:00:01Z INFO  svc.orders order=88213 user=alice-01 elapsed=12ms status=201
+2026-09-01T08:00:02Z INFO  svc.orders order=88214 user=bob-02 elapsed=9ms status=201
+2026-09-01T08:00:03Z WARN  svc.orders order=88215 user=carol-03 elapsed=118ms status=409
+2026-09-01T08:00:04Z INFO  svc.orders order=88216 user=dave-04 elapsed=7ms status=201
+2026-09-01T08:00:05Z ERROR svc.orders order=88217 user=erin-05 elapsed=2043ms status=500
+2026-09-01T08:00:06Z INFO  svc.orders order=88218 user=frank-06 elapsed=15ms status=201
+2026-09-01T08:00:07Z WARN  svc.orders order=88219 user=grace-07 elapsed=88ms status=409
+2026-09-01T08:00:08Z INFO  svc.orders order=88220 user=heidi-08 elapsed=11ms status=201
+2026-09-01T08:00:09Z ERROR svc.orders order=88221 user=ivan-09 elapsed=507ms status=503
+2026-09-01T08:00:10Z INFO  svc.orders order=88222 user=judy-10 elapsed=13ms status=201
+2026-09-01T08:00:11Z INFO  svc.orders order=88223 user=ken-11 elapsed=8ms status=201
+2026-09-01T08:00:12Z WARN  svc.orders order=88224 user=lena-12 elapsed=101ms status=409

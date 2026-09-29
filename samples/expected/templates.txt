@@ -1,0 +1,24 @@
+2	12	<*> <*><*>svc.orders order=<*> user=<*>-<*> elapsed=<*> status=<*>
+0	5	<*> payload fldaaa=<*> fldaab=<*> fldaac=<*> fldaad=<*> fldaae=<*> fldaaf=<*> fldaag=<*> fldaah=<*> fldaai=<*> fldaaj=<*> fldaak=<*> fldaal=<*> fldaam=<*> fldaan=<*> fldaao=<*> fldaap=<*> fldaaq=<*> fldaar=<*> fldaas=<*> fldaat=<*> fldaau=<*> fldaav=<*> fldaaw=<*> fldaax=<*> fldaay=<*> fldaaz=<*> fldaba=<*> fldabb=<*> fldabc=<*> fldabd=<*> fldabe=<*> fldabf=<*> fldabg=<*> fldabh=<*> fldabi=<*> fldabj=<*> fldabk=<*> fldabl=<*> fldabm=<*> fldabn=<*> fldabo=<*> fldabp=<*> fldabq=<*> fldabr=<*> fldabs=<*> fldabt=<*> fldabu=<*> fldabv=<*> fldabw=<*> fldabx=<*> fldaby=<*> fldabz=<*> fldaca=<*> fldacb=<*> fldacc=<*> fldacd=<*> fldace=<*> fldacf=<*> fldacg=<*> fldach=<*> fldaci=<*> fldacj=<*> fldack=<*> fldacl=<*> fldacm=<*> fldacn=<*> fldaco=<*> fldacp=<*> fldacq=<*> fldacr=<*> fldacs=<*> fldact=<*> fldacu=<*> fldacv=<*> fldacw=<*> fldacx=<*> fldacy=<*> fldacz=<*> fldada=<*> fldadb=<*> fldadc=<*> fldadd=<*> fldade=<*> fldadf=<*> fldadg=<*> fldadh=<*> fldadi=<*> fldadj=<*> fldadk=<*> fldadl=<*> fldadm=<*> fldadn=<*> fldado=<*> fldadp=<*> fldadq=<*> fldadr=<*> fldads=<*> fldadt=<*> fldadu=<*> fldadv=<*> fldadw=<*> fldadx=<*> fldady=<*> fldadz=<*> fldaea=<*> fldaeb=<*> fldaec=<*> fldaed=<*> fldaee=<*> fldaef=<*> fldaeg=<*> fldaeh=<*> fldaei=<*> fldaej=<*> fldaek=<*> fldael=<*> fldaem=<*> fldaen=<*> fldaeo=<*> fldaep=<*> fldaeq=<*> fldaer=<*> fldaes=<*> fldaet=<*> fldaeu=<*> fldaev=<*> fldaew=<*> fldaex=<*> fldaey=<*> fldaez=<*> fldafa=<*> fldafb=<*> fldafc=<*> fldafd=<*> fldafe=<*> fldaff=<*> fldafg=<*> fldafh=<*> fldafi=<*> fldafj=<*> fldafk=<*> fldafl=<*> fldafm=<*> fldafn=<*> fldafo=<*> fldafp=<*> fldafq=<*> fldafr=<*> fldafs=<*> fldaft=<*> fldafu=<*> fldafv=<*> fldafw=<*> fldafx=<*> fldafy=<*> fldafz=<*> fldaga=<*> fldagb=<*> fldagc=<*> fldagd=<*> fldage=<*> fldagf=<*> fldagg=<*> fldagh=<*> fldagi=<*> fldagj=<*> fldagk=<*> fldagl=<*> fldagm=<*> fldagn=<*> fldago=<*> fldagp=<*> fldagq=<*> fldagr=<*> fldags=<*> fldagt=<*> fldagu=<*> fldagv=<*> fldagw=<*> fldagx=<*> fldagy=<*> fldagz=<*> fldaha=<*> fldahb=<*> fldahc=<*> fldahd=<*> fldahe=<*> fldahf=<*> fldahg=<*> fldahh=<*> fldahi=<*> fldahj=<*> fldahk=<*> fldahl=<*> fldahm=<*> fldahn=<*> fldaho=<*> fldahp=<*> fldahq=<*> fldahr=<*> fldahs=<*> fldaht=<*> fldahu=<*> fldahv=<*> fldahw=<*> fldahx=<*> fldahy=<*> fldahz=<*> fldaia=<*> fldaib=<*> fldaic=<*> fldaid=<*> fldaie=<*> fldaif=<*> fldaig=<*> fldaih=<*> fldaii=<*> fldaij=<*> fldaik=<*> fldail=<*> fldaim=<*> fldain=<*> fldaio=<*> fldaip=<*> fldaiq=<*> fldair=<*> fldais=<*> fldait=<*> fldaiu=<*> fldaiv=<*> fldaiw=<*> fldaix=<*> fldaiy=<*> fldaiz=<*> fldaja=<*> fldajb=<*> fldajc=<*> fldajd=<*> fldaje=<*> fldajf=<*> fldajg=<*> fldajh=<*> fldaji=<*> fldajj=<*> fldajk=<*> fldajl=<*> fldajm=<*> fldajn=<*> fldajo=<*> fldajp=<*> fldajq=<*> fldajr=<*> fldajs=<*> fldajt=<*> fldaju=<*> <*>
+3	5	<*> req route=/api/v2/<*>/<*>/<*> client=<*>
+4	2	<*> req token=<*> cache=miss
+6	2	<*> req cache=<*> hit=<*> id=<*>
+8	2	<*> req|sid=<*>|state=<*>
+9	2	<*> dequeue <*> from queue <*>
+10	2	<*> ERROR svc.worker job=<*> failed, retrying
+11	2	Traceback (most recent call last):\n  File "/opt/app/worker.py", line <*>, in run\n    payload = json.loads(raw)\n  File "/usr/lib/<*>.<*>/json/__init__.py", line <*>, in loads\n    return _default_decoder.decode(s)
+12	2	json.decoder.JSONDecodeError: Expecting value: line <*> column <*> (char <*>)
+15	2	<*> msg reindex shard <*> <*>
+16	2	<*> msg user session <*> for tenant acme
+19	2	<*> msg scheduler picked queue <*> for next batch
+21	2	<*> msg quota check <*> for project <*>
+22	2	<*> msg trace sampler <*> <*> <*>
+23	2	<*> msg clock skew <*> between node <*> and node <*>
+1	1	<*> blob <*>
+5	1	<*> req cache=miss hit=<*>
+7	1	<*> req cache=hit hit=<*> id=<*> latency=<*>
+13	1	<*> msg worker pool scaled up to <*> threads
+14	1	<*> msg cache warmup finished in <*> milliseconds
+17	1	<*> msg disk usage on node <*> crossed <*> percent
+18	1	<*> msg disk usage on node <*> dropped to <*> percent
+20	1	

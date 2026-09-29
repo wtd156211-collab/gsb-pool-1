@@ -1,0 +1,17 @@
+2026-09-04T10:01:00Z msg worker pool scaled up to 32 threads
+2026-09-04T10:01:01Z msg cache warmup finished in 412 milliseconds
+2026-09-04T10:01:02Z msg reindex shard 17 started
+2026-09-04T10:01:03Z msg reindex shard 18 finished
+2026-09-04T10:01:04Z msg user session opened for tenant acme
+2026-09-04T10:01:05Z msg user session closed for tenant acme
+2026-09-04T10:01:06Z msg disk usage on node 9 crossed 81 percent
+2026-09-04T10:01:07Z msg disk usage on node 10 dropped to 42 percent
+2026-09-04T10:01:08Z msg scheduler picked queue beta for next batch
+2026-09-04T10:01:09Z msg scheduler picked queue gamma for next batch
+
+2026-09-04T10:01:10Z msg quota check passed for project atlas
+2026-09-04T10:01:11Z msg quota check failed for project zephyr
+2026-09-04T10:01:12Z msg trace sampler collected 512 spans
+2026-09-04T10:01:13Z msg trace sampler flushed 4 batches
+2026-09-04T10:01:14Z msg clock skew observed between node 3 and node 7
+2026-09-04T10:01:15Z msg clock skew resolved between node 4 and node 8
