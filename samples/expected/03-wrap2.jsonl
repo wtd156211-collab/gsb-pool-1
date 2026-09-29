@@ -1,0 +1,17 @@
+{"t":"sample","dev":"dev-a","ts":"2026-03-04T00:00:00Z","value":4294967000}
+{"t":"sample","dev":"dev-a","ts":"2026-03-04T00:01:00Z","value":4294967295}
+{"t":"sample","dev":"dev-a","ts":"2026-03-04T00:02:00Z","value":10}
+{"t":"sample","dev":"dev-a","ts":"2026-03-04T00:03:00Z","value":5000}
+{"t":"sample","dev":"dev-a","ts":"2026-03-04T00:04:00Z","value":4294967200}
+{"t":"sample","dev":"dev-a","ts":"2026-03-04T00:05:00Z","value":50}
+{"t":"sample","dev":"dev-a","ts":"2026-03-04T00:06:00Z","value":60}
+{"t":"increment","dev":"dev-a","from":"2026-03-04T00:00:00Z","to":"2026-03-04T00:01:00Z","delta":295,"kind":"normal"}
+{"t":"increment","dev":"dev-a","from":"2026-03-04T00:01:00Z","to":"2026-03-04T00:02:00Z","delta":11,"kind":"wrap"}
+{"t":"increment","dev":"dev-a","from":"2026-03-04T00:02:00Z","to":"2026-03-04T00:03:00Z","delta":4990,"kind":"normal"}
+{"t":"increment","dev":"dev-a","from":"2026-03-04T00:03:00Z","to":"2026-03-04T00:04:00Z","delta":4294962200,"kind":"normal"}
+{"t":"increment","dev":"dev-a","from":"2026-03-04T00:04:00Z","to":"2026-03-04T00:05:00Z","delta":146,"kind":"wrap"}
+{"t":"increment","dev":"dev-a","from":"2026-03-04T00:05:00Z","to":"2026-03-04T00:06:00Z","delta":10,"kind":"normal"}
+{"t":"anomaly","dev":"dev-a","ts":"2026-03-04T00:02:00Z","kind":"wrap","line":3}
+{"t":"anomaly","dev":"dev-a","ts":"2026-03-04T00:05:00Z","kind":"wrap","line":6}
+{"t":"summary","dev":"dev-a","points":7,"steps":6,"sum_delta":4294967652,"wrap":2,"reset":0,"drop":0,"late":0}
+{"t":"summary","dev":"*","points":7,"steps":6,"sum_delta":4294967652,"wrap":2,"reset":0,"drop":0,"late":0}
