@@ -1,0 +1,15 @@
+   X-Orphan: first
+X-Summary: part one
+  part two
+	part  three
+X-Bad: v1v2
+ continued text
+X-Colon
+ : v3
+X-Split: "a
+ b"
+X-After: done
+X-Ws: keep
+   
+
+X-Tail: end

@@ -1,0 +1,10 @@
+X-List: alpha, "beta, gamma", delta
+X-Run: a,,
+X-Only-Quotes: ""
+X-Unclosed: "abc
+X-Mixed: abc"def"
+X-Tail-Quote: "abc"def
+X-Quote-Mid: ab"cd
+X-Spaces: "  keep  ",	trim  me
+X-Comma-In-Quote: "a,b"
+X-Quotes-Only-List: "", ""

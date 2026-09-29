@@ -1,0 +1,8 @@
+line	reason	text
+2	E_EMPTY_ELEMENT	"X-Run: a,,"
+3	E_EMPTY_ELEMENT	"X-Only-Quotes: \"\""
+4	E_BAD_QUOTE	"X-Unclosed: \"abc"
+5	E_BAD_QUOTE	"X-Mixed: abc\"def\""
+6	E_BAD_QUOTE	"X-Tail-Quote: \"abc\"def"
+7	E_BAD_QUOTE	"X-Quote-Mid: ab\"cd"
+10	E_EMPTY_ELEMENT	"X-Quotes-Only-List: \"\", \"\""

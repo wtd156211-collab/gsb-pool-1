@@ -1,0 +1,3 @@
+line	reason	text
+3	E_BAD_CHAR	"X-Mid-Cr: a\rb"
+4	E_BAD_CHAR	"X-Tail: last\r"

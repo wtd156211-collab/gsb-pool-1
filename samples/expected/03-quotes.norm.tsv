@@ -1,0 +1,7 @@
+field	index	value	line
+x-list	0	"alpha"	1
+x-list	1	"beta, gamma"	1
+x-list	2	"delta"	1
+x-spaces	0	"  keep  "	8
+x-spaces	1	"trim me"	8
+x-comma-in-quote	0	"a,b"	9

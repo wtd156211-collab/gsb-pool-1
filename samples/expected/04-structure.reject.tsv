@@ -1,0 +1,10 @@
+line	reason	text
+2	E_NO_COLON	"No-Colon-Here"
+3	E_SPACE_BEFORE_COLON	"X-Spaced : v2"
+4	E_SPACE_BEFORE_COLON	"X-Inner space: v3"
+5	E_BAD_NAME	": v4"
+6	E_BAD_NAME	"X-\u00dcnicode: v5"
+8	E_BAD_CHAR	"X-Ctrl: v7\u0001v8"
+9	E_BAD_CHAR	"X-High: \u4e2d\u6587\u503c"
+10	E_BAD_CHAR	"X-Del: v9\u007f"
+11	E_BAD_CHAR	"X-Bytes: vA\udcffvB"

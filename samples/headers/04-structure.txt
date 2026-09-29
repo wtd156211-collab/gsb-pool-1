@@ -1,0 +1,11 @@
+X-Fine: v1
+No-Colon-Here
+X-Spaced : v2
+X-Inner space: v3
+: v4
+X-Ünicode: v5
+X#%&'*+-.^_`|~: v6
+X-Ctrl: v7v8
+X-High: 中文值
+X-Del: v9
+X-Bytes: vA�vB

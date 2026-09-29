@@ -1,0 +1,11 @@
+field	index	value	line
+content-type	0	"text/html; charset=utf-8"	1
+x-request-id	0	"8f3a-11"	2
+x-request-id	1	"91b7-02"	3
+x-request-id	2	"c0de-33"	4
+accept	0	"text/html"	5
+accept	1	"application/json"	5
+accept	2	"*/*"	6
+x-note	0	"one, two"	7
+x-note	1	"three"	7
+x-flags	0	"a b"	8

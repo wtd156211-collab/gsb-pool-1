@@ -1,0 +1,4 @@
+X-Crlf-A: one
+X-Crlf-B: two, three
+X-Mid-Cr: ab
+X-Tail: last

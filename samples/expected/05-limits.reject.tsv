@@ -1,0 +1,9 @@
+line	reason	text
+2	E_VALUE_TOO_LONG	"X-Long-256: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+3	E_VALUE_TOO_LONG	"X-Long-Quote: \"cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc\""
+6	E_BAD_NAME	"X-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn: v8"
+7	E_EMPTY_VALUE	"X-Empty:"
+8	E_EMPTY_VALUE	"X-Blank-Only:  \t"
+9	E_EMPTY_ELEMENT	"X-Empty-Quoted: \"\""
+10	E_EMPTY_ELEMENT	"X-Comma-Only: ,"
+11	E_EMPTY_ELEMENT	"X-Empty-List: a, ,b"

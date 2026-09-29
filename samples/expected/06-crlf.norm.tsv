@@ -1,0 +1,4 @@
+field	index	value	line
+x-crlf-a	0	"one"	1
+x-crlf-b	0	"two"	2
+x-crlf-b	1	"three"	2

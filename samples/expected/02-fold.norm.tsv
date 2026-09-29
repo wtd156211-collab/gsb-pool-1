@@ -1,0 +1,6 @@
+field	index	value	line
+x-summary	0	"part one part two part three"	2
+x-split	0	"a b"	9
+x-after	0	"done"	11
+x-ws	0	"keep"	12
+x-tail	0	"end"	15

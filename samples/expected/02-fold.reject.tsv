@@ -1,0 +1,5 @@
+line	reason	text
+1	E_ORPHAN_FOLD	"   X-Orphan: first"
+5	E_BAD_CHAR	"X-Bad: v1\u0007v2 continued text"
+7	E_SPACE_BEFORE_COLON	"X-Colon : v3"
+14	E_NO_COLON	""

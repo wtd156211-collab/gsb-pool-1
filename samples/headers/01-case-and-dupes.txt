@@ -1,0 +1,8 @@
+CONTENT-TYPE: text/html; charset=utf-8
+X-Request-Id: 8f3a-11
+x-request-id:	91b7-02
+x-REQUEST-ID:  c0de-33
+Accept: text/html ,  application/json
+accept: */*
+X-Note: "one, two",  three
+X-Flags: a	b
