@@ -1,0 +1,8 @@
+root:   
+    name: demo	  
+    list: 
+        - one   
+        - two	
+    note: |  
+        尾随   
+# 注释  

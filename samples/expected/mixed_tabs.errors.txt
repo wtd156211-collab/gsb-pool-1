@@ -1,0 +1,2 @@
+# samples/files/mixed_tabs.txt
+6:3: E_INDENT_WIDTH: 缩进宽度 5 不是 4 的整数倍

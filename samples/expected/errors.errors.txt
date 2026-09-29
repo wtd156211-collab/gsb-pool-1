@@ -1,0 +1,5 @@
+# samples/files/errors.txt
+3:9: E_SCALAR_CHILD: 标量条目不能有子节点
+6:9: E_CHILD_KIND_MIX: 同一容器内混用映射条目与列表项
+7:5: E_SYNTAX: 行不符合映射条目、列表项或注释的形式
+8:5: E_SYNTAX: 行不符合映射条目、列表项或注释的形式

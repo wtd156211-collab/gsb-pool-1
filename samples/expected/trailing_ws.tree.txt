@@ -1,0 +1,7 @@
+# samples/files/trailing_ws.txt
+root:
+  name: "demo"
+  list:
+    - "one"
+    - "two"
+  note: "尾随"

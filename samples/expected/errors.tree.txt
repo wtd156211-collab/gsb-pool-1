@@ -1,0 +1,7 @@
+# samples/files/errors.txt
+root:
+  count:
+    nested: "1"
+  items:
+    - "one"
+    two: "2"

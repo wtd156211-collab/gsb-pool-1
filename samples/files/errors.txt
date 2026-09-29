@@ -1,0 +1,8 @@
+root:
+    count: 12
+        nested: 1
+    items:
+        - one
+        two: 2
+    name = demo
+    : 空键

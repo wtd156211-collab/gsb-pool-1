@@ -1,0 +1,11 @@
+# samples/files/basic.txt
+service:
+  name: "demo"
+  ports:
+    - "8080"
+    - "8443"
+  backend:
+    host: "10.0.0.7"
+    retries: "3"
+    banner: "第一行\n    第二行更深缩进\n第三行"
+  empty: ""

@@ -1,0 +1,14 @@
+# 服务配置：缩进每级 4 个空格
+service:
+    name: demo
+    ports:
+        - 8080
+        - 8443
+    backend:
+        host: 10.0.0.7
+        retries: 3
+        banner: |
+            第一行
+                第二行更深缩进
+            第三行
+    empty:

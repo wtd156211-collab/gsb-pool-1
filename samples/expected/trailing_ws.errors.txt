@@ -1,0 +1,1 @@
+# samples/files/trailing_ws.txt

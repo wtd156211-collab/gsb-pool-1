@@ -1,0 +1,4 @@
+# samples/files/comments.txt
+app:
+  name: "demo"
+  port: "8080"
