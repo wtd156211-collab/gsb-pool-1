@@ -1,0 +1,5 @@
+batch	ids	lengths	codes	conflicts	backoffs	conflict_rate	rate_max
+01-sequential	128	6	128	0	0	0	0
+02-random	512	7	512	0	512	0	0
+03-nearby	256	8	256	0	256	0	0
+04-million	1000000	6	1000000	0	0	0	0
