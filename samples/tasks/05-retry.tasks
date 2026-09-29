@@ -1,0 +1,22 @@
+# 失败与重试：重试也蹭抖动（上限 min(窗口, backoff-1)），并占并发额度。
+seed 53
+horizon 3600
+cap 1
+
+task r1 0 600 2 1
+task r2 10 600 3 2
+task r3 20 600 1 1
+task r4 30 600 2 3
+task r5 40 600 3 1
+task r6 50 600 1 2
+
+retry r1 2 30
+retry r2 3 20
+retry r3 1 10
+retry r5 2 25
+fail r1 1
+fail r1 3
+fail r2 0
+fail r2 4
+fail r3 2
+fail r5 5

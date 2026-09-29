@@ -1,0 +1,11 @@
+# 周期 60 秒的高频任务：prio 3 的窗口（300）比周期还大，最小间隔（30）会推后。
+seed 23
+horizon 900
+cap 6
+
+task h1 0 60 1 1
+task h2 0 60 2 1
+task h3 0 60 3 2
+task h4 12 60 3 1
+task h5 30 60 2 1
+task h6 45 60 1 1

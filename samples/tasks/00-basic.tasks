@@ -1,0 +1,13 @@
+# 8 个任务、两拍：窗口内散开、同秒竞争、小上限推后。
+seed 7
+horizon 600
+cap 1
+
+task t-basic-01 100 300 1 1
+task t-basic-02 100 300 1 1
+task t-basic-03 100 300 2 2
+task t-basic-04 100 300 3 1
+task t-basic-05 130 600 2 1
+task t-basic-06 200 300 3 3
+task t-basic-07 200 300 3 1
+task t-basic-08 500 600 1 1
