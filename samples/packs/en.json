@@ -1,0 +1,27 @@
+{
+  "app.title": "Demo Shop",
+  "cart.itemCount": {
+    "one": "{count} item in the cart",
+    "other": "{count} items in the cart"
+  },
+  "cart.remove": "Remove {{itemName}} from the cart?",
+  "checkout.payNow": "Pay now",
+  "checkout.summary.itemCount": {
+    "one": "{count} item",
+    "other": "{count} items"
+  },
+  "checkout.summary.total": "Total: {total}",
+  "checkout.title": "Checkout",
+  "errors.network": "Network error, retry in {seconds}s",
+  "errors.timeout": "Request timed out",
+  "home.greeting": "Welcome back, {name}",
+  "nav.cart": "Cart",
+  "nav.home": "Home",
+  "orders.list.title": "Your orders",
+  "orders.list.updated": {
+    "one": "Updated {n} time",
+    "other": "Updated {n} times"
+  },
+  "settings.language": "Language",
+  "settings.save": "Save"
+}

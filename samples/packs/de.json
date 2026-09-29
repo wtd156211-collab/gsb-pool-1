@@ -1,0 +1,19 @@
+{
+  "app.title": "Demo-Shop",
+  "cart.itemCount": {
+    "one": "{count} Artikel im Warenkorb",
+    "other": "{count} Artikel im Warenkorb"
+  },
+  "cart.remove": "{{itemName}} aus dem Warenkorb entfernen?",
+  "errors.network": "Netzwerkfehler, erneut in {sekunden}s",
+  "errors.timeout": "Zeitüberschreitung",
+  "home.greeting": "Willkommen zurück, {name}",
+  "legacy.promo": null,
+  "nav.cart": "Warenkorb",
+  "nav.home": "Startseite",
+  "nav.legacyCart": "Warenkorb (alt)",
+  "orders.list.title": "Deine Bestellungen",
+  "orders.list.updated": null,
+  "settings.language": "",
+  "settings.save": "Speichern"
+}

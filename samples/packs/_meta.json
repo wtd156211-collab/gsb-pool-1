@@ -1,0 +1,6 @@
+{
+  "base": "en",
+  "fallbacks": {
+    "de-AT": ["de"]
+  }
+}

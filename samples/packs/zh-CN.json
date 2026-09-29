@@ -1,0 +1,27 @@
+{
+  "app.title": "示例商店",
+  "cart.itemCount": {
+    "one": "购物车里有 {count} 件商品",
+    "other": "购物车里有 {count} 件商品"
+  },
+  "cart.remove": "把 {{itemName}} 从购物车移除？",
+  "checkout.payNow": "立即支付",
+  "checkout.summary.itemCount": {
+    "one": "共 {count} 件",
+    "other": "共 {count} 件"
+  },
+  "checkout.summary.total": "合计：{total}",
+  "checkout.title": "结算",
+  "errors.network": "网络错误，{seconds} 秒后重试",
+  "errors.timeout": "请求超时",
+  "home.greeting": "欢迎回来，{name}",
+  "nav.cart": "购物车",
+  "nav.home": "首页",
+  "orders.list.title": "我的订单",
+  "orders.list.updated": {
+    "one": "更新了 {n} 次",
+    "other": "更新了 {n} 次"
+  },
+  "settings.language": "语言",
+  "settings.save": "保存"
+}

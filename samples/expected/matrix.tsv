@@ -1,0 +1,81 @@
+locale	key	source	state	value
+de	app.title	de	self	"Demo-Shop"
+de	cart.itemCount	de	self	{"one": "{count} Artikel im Warenkorb", "other": "{count} Artikel im Warenkorb"}
+de	cart.remove	de	self	"{{itemName}} aus dem Warenkorb entfernen?"
+de	checkout.payNow	en	untranslated	"Pay now"
+de	checkout.summary.itemCount	en	untranslated	{"one": "{count} item", "other": "{count} items"}
+de	checkout.summary.total	en	untranslated	"Total: {total}"
+de	checkout.title	en	untranslated	"Checkout"
+de	errors.network	de	self	"Netzwerkfehler, erneut in {sekunden}s"
+de	errors.timeout	de	self	"Zeitüberschreitung"
+de	home.greeting	de	self	"Willkommen zurück, {name}"
+de	nav.cart	de	self	"Warenkorb"
+de	nav.home	de	self	"Startseite"
+de	orders.list.title	de	self	"Deine Bestellungen"
+de	orders.list.updated	de	deleted	null
+de	settings.language	de	empty	""
+de	settings.save	de	self	"Speichern"
+de-AT	app.title	de-AT	self	"Demo Shop (AT)"
+de-AT	cart.itemCount	de	inherited	{"one": "{count} Artikel im Warenkorb", "other": "{count} Artikel im Warenkorb"}
+de-AT	cart.remove	de	inherited	"{{itemName}} aus dem Warenkorb entfernen?"
+de-AT	checkout.payNow	de-AT	self	"Jetzt zahlen"
+de-AT	checkout.summary.itemCount	en	untranslated	{"one": "{count} item", "other": "{count} items"}
+de-AT	checkout.summary.total	en	untranslated	"Total: {total}"
+de-AT	checkout.title	de-AT	self	"Zur Kasse"
+de-AT	errors.network	de	inherited	"Netzwerkfehler, erneut in {sekunden}s"
+de-AT	errors.timeout	de	inherited	"Zeitüberschreitung"
+de-AT	home.greeting	de	inherited	"Willkommen zurück, {name}"
+de-AT	nav.cart	de	inherited	"Warenkorb"
+de-AT	nav.home	de	inherited	"Startseite"
+de-AT	orders.list.title	de	inherited	"Deine Bestellungen"
+de-AT	orders.list.updated	de	deleted	null
+de-AT	settings.language	de	empty	""
+de-AT	settings.save	de-AT	self	"Speichern"
+en	app.title	en	self	"Demo Shop"
+en	cart.itemCount	en	self	{"one": "{count} item in the cart", "other": "{count} items in the cart"}
+en	cart.remove	en	self	"Remove {{itemName}} from the cart?"
+en	checkout.payNow	en	self	"Pay now"
+en	checkout.summary.itemCount	en	self	{"one": "{count} item", "other": "{count} items"}
+en	checkout.summary.total	en	self	"Total: {total}"
+en	checkout.title	en	self	"Checkout"
+en	errors.network	en	self	"Network error, retry in {seconds}s"
+en	errors.timeout	en	self	"Request timed out"
+en	home.greeting	en	self	"Welcome back, {name}"
+en	nav.cart	en	self	"Cart"
+en	nav.home	en	self	"Home"
+en	orders.list.title	en	self	"Your orders"
+en	orders.list.updated	en	self	{"one": "Updated {n} time", "other": "Updated {n} times"}
+en	settings.language	en	self	"Language"
+en	settings.save	en	self	"Save"
+fr	app.title	fr	self	"Boutique démo"
+fr	cart.itemCount	fr	self	"{count} article(s) dans le panier"
+fr	cart.remove	fr	self	"Retirer {{itemName}} du panier ?"
+fr	checkout.payNow	fr	self	"Payer maintenant"
+fr	checkout.summary.itemCount	fr	self	{"many": "{counts} articles", "one": "{count} article", "other": "{counts} articles"}
+fr	checkout.summary.total	fr	self	"Total : {montant}"
+fr	checkout.title	fr	self	"Paiement"
+fr	errors.network	fr	self	"Erreur réseau, réessayez dans {seconds} s"
+fr	errors.timeout	fr	self	"Délai dépassé"
+fr	home.greeting	fr	self	"Bon retour, {name}"
+fr	nav.cart	fr	self	"Panier"
+fr	nav.home	fr	self	"Accueil"
+fr	orders.list.title	fr	self	"Vos commandes"
+fr	orders.list.updated	fr	self	{"other": "Mis à jour {n} fois"}
+fr	settings.language	fr	self	"Langue"
+fr	settings.save	fr	self	"Enregistrer"
+zh-CN	app.title	zh-CN	self	"示例商店"
+zh-CN	cart.itemCount	zh-CN	self	{"one": "购物车里有 {count} 件商品", "other": "购物车里有 {count} 件商品"}
+zh-CN	cart.remove	zh-CN	self	"把 {{itemName}} 从购物车移除？"
+zh-CN	checkout.payNow	zh-CN	self	"立即支付"
+zh-CN	checkout.summary.itemCount	zh-CN	self	{"one": "共 {count} 件", "other": "共 {count} 件"}
+zh-CN	checkout.summary.total	zh-CN	self	"合计：{total}"
+zh-CN	checkout.title	zh-CN	self	"结算"
+zh-CN	errors.network	zh-CN	self	"网络错误，{seconds} 秒后重试"
+zh-CN	errors.timeout	zh-CN	self	"请求超时"
+zh-CN	home.greeting	zh-CN	self	"欢迎回来，{name}"
+zh-CN	nav.cart	zh-CN	self	"购物车"
+zh-CN	nav.home	zh-CN	self	"首页"
+zh-CN	orders.list.title	zh-CN	self	"我的订单"
+zh-CN	orders.list.updated	zh-CN	self	{"one": "更新了 {n} 次", "other": "更新了 {n} 次"}
+zh-CN	settings.language	zh-CN	self	"语言"
+zh-CN	settings.save	zh-CN	self	"保存"

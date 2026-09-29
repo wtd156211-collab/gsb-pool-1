@@ -1,0 +1,19 @@
+locale	key	code	detail
+de	checkout.payNow	E_MISSING_KEY	source=en
+de	checkout.summary.itemCount	E_MISSING_KEY	source=en
+de	checkout.summary.total	E_MISSING_KEY	source=en
+de	checkout.title	E_MISSING_KEY	source=en
+de	errors.network	E_PLACEHOLDER_MISMATCH	missing=[seconds] extra=[sekunden]
+de	nav.legacyCart	W_EXTRA_KEY	-
+de	orders.list.updated	E_DELETED	source=de
+de	settings.language	W_EMPTY_VALUE	source=de
+de-AT	checkout.summary.itemCount	E_MISSING_KEY	source=en
+de-AT	checkout.summary.total	E_MISSING_KEY	source=en
+de-AT	errors.network	E_PLACEHOLDER_MISMATCH	missing=[seconds] extra=[sekunden]
+de-AT	orders.list.updated	E_DELETED	source=de
+de-AT	settings.language	W_EMPTY_VALUE	source=de
+fr	cart.itemCount	E_TYPE_MISMATCH	expected=plural actual=string
+fr	checkout.summary.itemCount	E_PLACEHOLDER_MISMATCH	category=other missing=[count] extra=[counts]
+fr	checkout.summary.itemCount	W_PLURAL_EXTRA	category=many
+fr	checkout.summary.total	E_PLACEHOLDER_MISMATCH	missing=[total] extra=[montant]
+fr	orders.list.updated	E_PLURAL_MISSING	category=one

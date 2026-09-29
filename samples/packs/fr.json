@@ -1,0 +1,24 @@
+{
+  "app.title": "Boutique démo",
+  "cart.itemCount": "{count} article(s) dans le panier",
+  "cart.remove": "Retirer {{itemName}} du panier ?",
+  "checkout.payNow": "Payer maintenant",
+  "checkout.summary.itemCount": {
+    "many": "{counts} articles",
+    "one": "{count} article",
+    "other": "{counts} articles"
+  },
+  "checkout.summary.total": "Total : {montant}",
+  "checkout.title": "Paiement",
+  "errors.network": "Erreur réseau, réessayez dans {seconds} s",
+  "errors.timeout": "Délai dépassé",
+  "home.greeting": "Bon retour, {name}",
+  "nav.cart": "Panier",
+  "nav.home": "Accueil",
+  "orders.list.title": "Vos commandes",
+  "orders.list.updated": {
+    "other": "Mis à jour {n} fois"
+  },
+  "settings.language": "Langue",
+  "settings.save": "Enregistrer"
+}
