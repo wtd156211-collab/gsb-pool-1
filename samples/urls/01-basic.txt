@@ -1,0 +1,4 @@
+http://example.com/a/b.html
+http://example.com/a/b.html?x=1&y=2#top
+https://api.example.com:8443/v1/items
+https://api.example.com:8443/v1/items/

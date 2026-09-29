@@ -1,0 +1,7 @@
+http://
+http:///path
+https://:8080/x
+//
+//:8080/x
+foo://
+http://?x=1

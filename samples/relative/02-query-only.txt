@@ -1,0 +1,4 @@
+http://example.com/a/b/c?x=1#frag	?y=2
+http://example.com/a/b/c?x=1#frag	?
+http://example.com/a/b/c?x=1#frag	?y=2#g
+https://api.example.com:8443/v1/items/?a=1#top	?b=%2F

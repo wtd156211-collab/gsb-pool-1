@@ -1,0 +1,6 @@
+http://example.com/a/./b/../c/
+http://example.com/a/b/../../../../c
+http://example.com/a/%2E%2E/b
+http://example.com/./a/../..
+http://example.com/a/b/c/..
+a/../b

@@ -1,0 +1,4 @@
+HTTP://ExAmPle.COM/A/B?Q=1#F
+HtTpS://API.Example.com:443/V1/Items?Page=2#Top
+WS://Chat.Example.COM:80/room
+FTP://files.example.com:21/pub/File.TXT

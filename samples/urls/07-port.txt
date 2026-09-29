@@ -1,0 +1,10 @@
+http://example.com:80/a
+https://example.com:443/a
+ws://example.com:80/a
+wss://example.com:443/a
+ftp://example.com:21/a
+http://example.com:8080/a
+http://example.com:0080/a
+//example.com:80/a
+http://example.com:65535/a
+http://example.com:000443/a

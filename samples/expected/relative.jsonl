@@ -1,0 +1,27 @@
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"../d","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/d","query":"x=1","fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"./d","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/d","query":"x=1","fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"d","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/d","query":"x=1","fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"../../../../d","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/d","query":"x=1","fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"/x","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/x","query":"x=1","fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"?y=2","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/c","query":"y=2","fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"?","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/c","query":"","fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"?y=2#g","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/c","query":"y=2","fragment":"g"}
+{"base":"https://api.example.com:8443/v1/items/?a=1#top","ref":"?b=%2F","ok":true,"scheme":"https","host":"api.example.com","port":8443,"path":"/v1/items/","query":"b=%2F","fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"#g","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/c","query":"x=1","fragment":"g"}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"#","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/c","query":"x=1","fragment":""}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"#g?h","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/c","query":"x=1","fragment":"g?h"}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"https://other.example:8443/p?r=1#s","ok":true,"scheme":"https","host":"other.example","port":8443,"path":"/p","query":"r=1","fragment":"s"}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"//other.example/p","ok":true,"scheme":"http","host":"other.example","port":null,"path":"/p","query":null,"fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"//other.example:80/p?q#r","ok":true,"scheme":"http","host":"other.example","port":null,"path":"/p","query":"q","fragment":"r"}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"https://other.example:443/p","ok":true,"scheme":"https","host":"other.example","port":null,"path":"/p","query":null,"fragment":null}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"ftp://files.example/pub/#a","ok":true,"scheme":"ftp","host":"files.example","port":null,"path":"/pub/","query":null,"fragment":"a"}
+{"base":"http://example.com/a/b/c?x=1#frag","ref":"","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/a/b/c","query":"x=1","fragment":null}
+{"base":"https://api.example.com:8443/v1/items/?a=1#top","ref":"","ok":true,"scheme":"https","host":"api.example.com","port":8443,"path":"/v1/items/","query":"a=1","fragment":null}
+{"base":"http://example.com/","ref":"","ok":true,"scheme":"http","host":"example.com","port":null,"path":"/","query":null,"fragment":null}
+{"base":"http:///nohost","ref":"/a","ok":false,"error":"invalid_base"}
+{"base":"http://example.com:0/a","ref":"/b","ok":false,"error":"invalid_base"}
+{"base":"//example.com/a","ref":"../b","ok":false,"error":"invalid_base"}
+{"base":"http://example.com/","ref":"%zz","ok":false,"error":"bad_percent_encoding"}
+{"base":"http://example.com/a/b","ref":"http://exa mple.com/x","ok":false,"error":"illegal_char"}
+{"base":"http://example.com/a/b","ref":"/b c","ok":false,"error":"illegal_char"}
+{"base":"http://example.com/a/b","ref":null,"ok":false,"error":"bad_line"}

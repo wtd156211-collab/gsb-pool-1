@@ -1,0 +1,7 @@
+http://example.com/a?x=1#f
+http://example.com/a?
+http://example.com/a#
+http://example.com/a?#
+http://example.com/a#f?not-a-query
+http://example.com/a?x=%3D#%41
+http://example.com/a?x=1#f#g

@@ -1,0 +1,5 @@
+http://example.com/a/b/c?x=1#frag	https://other.example:8443/p?r=1#s
+http://example.com/a/b/c?x=1#frag	//other.example/p
+http://example.com/a/b/c?x=1#frag	//other.example:80/p?q#r
+http://example.com/a/b/c?x=1#frag	https://other.example:443/p
+http://example.com/a/b/c?x=1#frag	ftp://files.example/pub/#a

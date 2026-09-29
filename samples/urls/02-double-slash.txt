@@ -1,0 +1,5 @@
+https://cdn.example.com//assets//img/logo.png
+https://cdn.example.com//assets/./logo.png
+//cdn.example.com/lib/app.js
+http://example.com
+http://example.com/

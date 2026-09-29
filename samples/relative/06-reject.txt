@@ -1,0 +1,7 @@
+http:///nohost	/a
+http://example.com:0/a	/b
+//example.com/a	../b
+http://example.com/	%zz
+http://example.com/a/b	http://exa mple.com/x
+http://example.com/a/b	/b c
+http://example.com/a/b

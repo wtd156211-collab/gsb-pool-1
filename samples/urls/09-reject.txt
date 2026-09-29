@@ -1,0 +1,13 @@
+http://example.com/%zz
+http://example.com/a%2
+http://example.com:65536/a
+http://example.com:0/a
+http://example.com:/a
+http://example.com:8x/a
+http://user@example.com/a
+http://[::1]/a
+http://exa mple.com/a
+http://example.com/a\b
+file://
+https://пример.example/a
+http://example.com/a?x=1#f%g0
