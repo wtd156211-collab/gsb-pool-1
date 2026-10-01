@@ -1,0 +1,10 @@
+# 完美拟合（直线）：40 个点精确落在同一条直线上
+tol 1e-09 1e-06 1e-03
+n 40
+line 3 2
+quad 0 3 2
+stats line 40 0 0 0
+stats quad 40 0 0 0
+outliers line 0
+outliers quad 0
+plot 40
